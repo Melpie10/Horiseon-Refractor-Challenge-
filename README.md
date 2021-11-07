@@ -14,9 +14,9 @@ One of the challenges for this project was to understand that a background image
 
 The website can be accessed from Github repository:
 
-[pip] ( )
+https://github.com/Melpie10/Horiseon-Refractor-Challenge-.git
 
-It can also be accessed on the live [pip] website:
+It can also be accessed on the live website: https://melpie10.github.io/Horiseon-Refractor-Challenge-/
 
  ## Visuals
 
