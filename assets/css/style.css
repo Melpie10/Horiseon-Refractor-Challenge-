@@ -81,7 +81,7 @@ p {
     margin-left: 20px;
 }
 
-/* Established "formating-header" class in the "main landing hero" section for uniformity in format*/
+/* consolidated selector: "formating-header" class in the "main landing hero" section for uniformity in format*/
 .formating-header {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,7 +111,7 @@ p {
     background-color: #2589bd;
 }
 
-/* "lead-brand-cost" class created for elements in side panel to format uniformity */
+/* consolidated selector: "lead-brand-cost" class created for elements in side panel to format uniformity */
 .lead-brand-cost {
     margin-bottom: 32px;
     color: #ffffff;
