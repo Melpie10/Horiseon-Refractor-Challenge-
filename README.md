@@ -4,9 +4,13 @@ The Horiseon Refactor Challenge was created when AS A marketing agency, the code
 
 ## Description 
 
-The two major changes made to the original code of this website are that images now include a detailed description for accessibility and a concise and descriptive title now provide keywords to facilitate the site to be find easier in search engines. It also now follows a logical and structured set of HTML and CSS elements for styling and positioning throughout. 
+The two major changes made to the original code of this website are that images now include a detailed description for accessibility and a concise and descriptive title now provide keywords to facilitate the site to be find easier in search engines. It also now follows a logical and structured set of HTML and CSS elements for styling and positioning throughout.
 
-## Installation
+VS Code was used to refactot the website's code. 
+
+One of the challenges for this project was to understand that a background image on CSS does not necesarily need an alt description, but is used merely for asthetics. 
+
+## Access
 
 The website can be accessed from Github repository:
 
@@ -29,7 +33,7 @@ Pull requests are welcomed. If you would like to suggest major/significant chang
 
 ## Support
 
-If you would like to contact us, please email melany14@gmail.com as the marketing company that refactored the website most recently.
+📫  If you would like to contact us, please email melany14@gmail.com as the marketing company that refactored the website most recently.
 
 ## Roadmap
 
